@@ -13,3 +13,4 @@
 - ## [MNIST 7000 张原始数据集](https://github.com/TeFuirnever/Kaggle-Digit-Recognizer/blob/master/mnist_train_70000.zip)
 - ## [基于 CNN 的得分 99.5% 程序](https://github.com/TeFuirnever/Kaggle-Digit-Recognizer/blob/master/MNIST_CNN_99.5%25.ipynb)
 - ## [基于 KNN 的得分 100% 程序和数据](https://github.com/TeFuirnever/Kaggle-Digit-Recognizer/blob/master/MNIST_kNN_100%25.zip)
+- ## [FlyAi实战之MNIST手写数字识别练习赛](https://github.com/TeFuirnever/Kaggle-Digit-Recognizer/blob/master/)
